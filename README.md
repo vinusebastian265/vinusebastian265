@@ -28,18 +28,4 @@ I'm a Data Scientist with 2+ years of experience in building intelligent systems
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinu-sebastian-thomas-3ab986209/)  
 - 🧪 [Kaggle](https://www.kaggle.com/vinusebastianthomas)  
 - 📝 [Blog](https://medium.com/@vinusebastianthomas) *(when I’m not procrastinating)*
-
----
-
-### 🧮 Stats That (Almost) Matter
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinuthomas&show_icons=true&theme=radical" alt="Vinu's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuthomas&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
-
----
-
-### 🎯 Fun Fact
-
-> I once built an agent to write speeches better than me. It hasn’t stopped judging me since.  
+ 
